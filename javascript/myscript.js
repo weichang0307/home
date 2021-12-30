@@ -1,6 +1,8 @@
 let allcanvas={
     games:[
         {herf:"https://weichang0307.github.io/music-game-made/",name:'music-game-made'},
+        {herf:"https://weichang0307.github.io/music-game-made/",name:'music-game-made'},
+        {herf:"https://weichang0307.github.io/phone-test/",name:'phone-test'},
     ],
     tools:[
         {herf:"https://weichang0307.github.io/canvas-drawer/",name:'canvas-drawer'},
